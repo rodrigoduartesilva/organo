@@ -1,4 +1,4 @@
-.rodape {
+.footer {
     display: flex;
     align-items: center;
     background-color: #6278F7;
@@ -7,7 +7,7 @@
     height: 213px;
 }
 
-.rodape .social__icons {
+.footer .social__icons {
     width: 200px;
     display: flex;
     align-items: center;
@@ -26,7 +26,7 @@
     opacity: 0.7;
 }
 
-.rodape .rodape__dev {
+.footer .rodape__dev {
     color: #FFFFFF;
     font-weight: 500;
 }
